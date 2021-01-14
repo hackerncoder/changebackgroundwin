@@ -1,0 +1,6 @@
+E:\Copy from dads\ChangeBackgroundWin\tester\bin\Debug\tester.exe.config
+E:\Copy from dads\ChangeBackgroundWin\tester\bin\Debug\tester.exe
+E:\Copy from dads\ChangeBackgroundWin\tester\bin\Debug\tester.pdb
+E:\Copy from dads\ChangeBackgroundWin\tester\obj\Debug\tester.csprojAssemblyReference.cache
+E:\Copy from dads\ChangeBackgroundWin\tester\obj\Debug\tester.exe
+E:\Copy from dads\ChangeBackgroundWin\tester\obj\Debug\tester.pdb

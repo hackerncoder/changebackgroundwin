@@ -1,0 +1,34 @@
+C:\Users\adams_000\Documents\Visual Studio 2017\Projects\ChangeBackgroundWin\ChangeBackgroundWin\bin\Debug\ChangeBackgroundWin.exe.config
+C:\Users\adams_000\Documents\Visual Studio 2017\Projects\ChangeBackgroundWin\ChangeBackgroundWin\bin\Debug\ChangeBackgroundWin.exe
+C:\Users\adams_000\Documents\Visual Studio 2017\Projects\ChangeBackgroundWin\ChangeBackgroundWin\bin\Debug\ChangeBackgroundWin.pdb
+C:\Users\adams_000\Documents\Visual Studio 2017\Projects\ChangeBackgroundWin\ChangeBackgroundWin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adams_000\Documents\Visual Studio 2017\Projects\ChangeBackgroundWin\ChangeBackgroundWin\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\adams_000\Documents\Visual Studio 2017\Projects\ChangeBackgroundWin\ChangeBackgroundWin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adams_000\Documents\Visual Studio 2017\Projects\ChangeBackgroundWin\ChangeBackgroundWin\obj\Debug\ChangeBackgroundWin.csprojAssemblyReference.cache
+C:\Users\adams_000\Documents\Visual Studio 2017\Projects\ChangeBackgroundWin\ChangeBackgroundWin\obj\Debug\ChangeBackgroundWin.csproj.CoreCompileInputs.cache
+C:\Users\adams_000\Documents\Visual Studio 2017\Projects\ChangeBackgroundWin\ChangeBackgroundWin\obj\Debug\ChangeBackgroundWin.csproj.CopyComplete
+C:\Users\adams_000\Documents\Visual Studio 2017\Projects\ChangeBackgroundWin\ChangeBackgroundWin\obj\Debug\ChangeBackgroundWin.exe
+C:\Users\adams_000\Documents\Visual Studio 2017\Projects\ChangeBackgroundWin\ChangeBackgroundWin\obj\Debug\ChangeBackgroundWin.pdb
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundWin\bin\Debug\ChangeBackgroundWin.exe.config
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundWin\bin\Debug\ChangeBackgroundWin.exe
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundWin\bin\Debug\ChangeBackgroundWin.pdb
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundWin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundWin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundWin\obj\Debug\ChangeBackgroundWin.csproj.CoreCompileInputs.cache
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundWin\obj\Debug\ChangeBackgroundWin.csproj.CopyComplete
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundWin\obj\Debug\ChangeBackgroundWin.exe
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundWin\obj\Debug\ChangeBackgroundWin.pdb
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundWin\obj\Debug\ChangeBackgroundWin.Properties.Resources.resources
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundWin\obj\Debug\ChangeBackgroundWin.csproj.GenerateResource.cache
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundWin\obj\Debug\ChangeBackgroundWin.csprojAssemblyReference.cache
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundWin\bin\Debug\ChangeBackgroundWin.exe.config
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundWin\bin\Debug\ChangeBackgroundWin.exe
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundWin\bin\Debug\ChangeBackgroundWin.pdb
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundWin\bin\Debug\Newtonsoft.Json.dll
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundWin\bin\Debug\Newtonsoft.Json.xml
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundWin\obj\Debug\ChangeBackgroundWin.Properties.Resources.resources
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundWin\obj\Debug\ChangeBackgroundWin.csproj.GenerateResource.cache
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundWin\obj\Debug\ChangeBackgroundWin.csproj.CopyComplete
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundWin\obj\Debug\ChangeBackgroundWin.exe
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundWin\obj\Debug\ChangeBackgroundWin.pdb
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundWin\obj\Debug\ChangeBackgroundWin.csprojAssemblyReference.cache

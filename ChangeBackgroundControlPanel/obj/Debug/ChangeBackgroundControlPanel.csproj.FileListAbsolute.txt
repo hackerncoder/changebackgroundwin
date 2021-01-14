@@ -1,0 +1,35 @@
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundControlPanel\bin\Debug\ChangeBackgroundControlPanel.exe.config
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundControlPanel\bin\Debug\ChangeBackgroundControlPanel.exe
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundControlPanel\bin\Debug\ChangeBackgroundControlPanel.pdb
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.Form1.resources
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.Properties.Resources.resources
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.csproj.GenerateResource.cache
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.csproj.CoreCompileInputs.cache
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.exe
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.pdb
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.Form2.resources
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.Form3.resources
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.Form4.resources
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.csproj.ResolveComReference.cache
+C:\Users\Henrik\Source\Repos\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.csprojAssemblyReference.cache
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundControlPanel\bin\Debug\ChangeBackgroundControlPanel.exe.config
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundControlPanel\bin\Debug\ChangeBackgroundControlPanel.exe
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundControlPanel\bin\Debug\ChangeBackgroundControlPanel.pdb
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\Interop.IWshRuntimeLibrary.dll
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.csproj.ResolveComReference.cache
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.Form1.resources
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.Form2.resources
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.Form3.resources
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.Form4.resources
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.Properties.Resources.resources
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.csproj.GenerateResource.cache
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.exe
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.pdb
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.csprojAssemblyReference.cache
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundControlPanel\bin\Debug\ChangeBackgroundWin.exe
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundControlPanel\bin\Debug\Newtonsoft.Json.dll
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundControlPanel\bin\Debug\ChangeBackgroundWin.pdb
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundControlPanel\bin\Debug\ChangeBackgroundWin.exe.config
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundControlPanel\bin\Debug\Newtonsoft.Json.xml
+E:\Copy from dads\ChangeBackgroundWin\ChangeBackgroundControlPanel\obj\Debug\ChangeBackgroundControlPanel.csproj.CopyComplete

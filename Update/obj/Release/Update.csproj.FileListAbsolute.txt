@@ -1,0 +1,12 @@
+E:\Copy from dads\ChangeBackgroundWin\Update\bin\Release\Update.exe.config
+E:\Copy from dads\ChangeBackgroundWin\Update\bin\Release\Update.exe
+E:\Copy from dads\ChangeBackgroundWin\Update\bin\Release\Update.pdb
+E:\Copy from dads\ChangeBackgroundWin\Update\bin\Release\ChangeBackgroundWin.exe
+E:\Copy from dads\ChangeBackgroundWin\Update\bin\Release\Newtonsoft.Json.dll
+E:\Copy from dads\ChangeBackgroundWin\Update\bin\Release\ChangeBackgroundWin.pdb
+E:\Copy from dads\ChangeBackgroundWin\Update\bin\Release\ChangeBackgroundWin.exe.config
+E:\Copy from dads\ChangeBackgroundWin\Update\bin\Release\Newtonsoft.Json.xml
+E:\Copy from dads\ChangeBackgroundWin\Update\obj\Release\Update.csprojAssemblyReference.cache
+E:\Copy from dads\ChangeBackgroundWin\Update\obj\Release\Update.csproj.CopyComplete
+E:\Copy from dads\ChangeBackgroundWin\Update\obj\Release\Update.exe
+E:\Copy from dads\ChangeBackgroundWin\Update\obj\Release\Update.pdb
